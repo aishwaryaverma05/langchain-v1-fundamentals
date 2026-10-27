@@ -10,7 +10,7 @@ The notebook uses Groq-hosted models and Google Gemini to explore different Lang
 
 ## Topics Covered
 
-### 1. LLM Integration
+### 1. LLM Integration.
 
 - Initialize chat models using LangChain's `init_chat_model()`.
 - Connect to Groq-hosted models and Google Gemini.
